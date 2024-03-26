@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gerrit Bauch
+- 👋 Hi, I’m Gerrit
 - 👀 I’m interested in game theory, decision theory, especially under (Knightian) uncertainty, complex analysis, coding theory
 - 🌱 I’m currently learning to manage GitHub
 - 💞️ I’m looking to collaborate on game & decision theory.
